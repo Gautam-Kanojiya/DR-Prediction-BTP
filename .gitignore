@@ -1,0 +1,10 @@
+/src/frontend/node_modules
+/src/backend/utils/__pycache__
+/src/backend/uploads
+
+# Virtual environment
+myenv/
+venv/
+
+# VS Code
+.vscode/
